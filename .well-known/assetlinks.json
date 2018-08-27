@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.rccl.royalcaribbean.debug",
+    "sha256_cert_fingerprints":
+    ["F1:69:3E:CB:21:B5:22:5C:5E:B4:85:8D:27:1D:68:31:E1:AB:CC:AB:B2:7A:D0:79:6E:76:FE:06:DB:06:47:EB"]
+  }
+}]
